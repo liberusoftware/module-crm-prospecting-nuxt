@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-prospecting-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-prospecting",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-prospecting-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/prospecting.md",
+  "presentationPlan": "projects/crm/nuxt/prospecting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
